@@ -23,7 +23,7 @@ Kindly be aware that this project is optimized for laptop screens and is not res
 
 
 ## Contributing
-We welcome contributions to improve PawFinds! To contribute, follow these steps:
+We welcome contributions to improve Wagging Tails! To contribute, follow these steps:
 - Fork the repository.
 - Create a new branch: git checkout -b feature-new-feature
 - Make your changes and commit them: git commit -m 'Add new feature'
