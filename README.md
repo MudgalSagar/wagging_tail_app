@@ -1,4 +1,4 @@
-# PawFinds: Pet Adoption System Front End
+# Wagging Tails: Pet Adoption System Front End
 
 Welcome to the PawFinds Pet Adoption System front-end repository! This project is developed using React.js and aims to provide a user-friendly interface for users to discover and adopt pets.
 
@@ -13,11 +13,9 @@ PawFinds is a web application that connects pet lovers with pets in need of a ho
 - Detailed pet profiles with photos and descriptions.
 - Adoption application submission through the platform.
 
-[Linkedin Post Link](https://www.linkedin.com/posts/kashiekzmi_pawfinds-petadoptionsystem-reactjs-activity-7097093926435663872-74zE?utm_source=share&utm_medium=member_desktop)
+[Linkedin Post Link]([https://www.linkedin.com/posts/kashiekzmi_pawfinds-petadoptionsystem-reactjs-activity-7097093926435663872-74zE?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/in/sagar-mudgal-217202300/)
 
-## Demo Video
-Watch a quick demo of the PawFinds front end in action:
-[Video Link](https://github.com/KaShiekzmi/PawFinds-Pet-Adoption-System-Front-end-with-React-Js/assets/114513868/763719d5-10e2-4171-8d1c-837d4edecf6b)
+
 
 ## **Please Note: This Project Is Designed for Laptop Screens**
 Kindly be aware that this project is optimized for laptop screens and is not responsive for mobile or tablet devices. The development of this project was carried out during an internship, and as the internship period has come to an end, further enhancements may not be applied.
